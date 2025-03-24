@@ -1,9 +1,9 @@
-[//]: # (title: Composing Fiction & Scripts in Markdown)
+[//]: # (title: Composing Long-Form Fiction & Scripts in Markdown)
 [//]: # (date: 01-12-23)
 [//]: # (link: https://github.com/WrinkleRelease/Composing-In-Markdown)
 [//]: # (tags: markdown, writing, markdown-editor)
 
-# Composing Fiction & Scripts with Markdown
+# Composing Long-Form Fiction & Scripts with Markdown
 
 ## 1. Purpose
 
